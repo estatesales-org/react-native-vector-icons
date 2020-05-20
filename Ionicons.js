@@ -6,7 +6,7 @@
 import createIconSet from './lib/create-icon-set';
 import glyphMap from './glyphmaps/Ionicons.json';
 
-const iconSet = createIconSet(glyphMap, 'Ionicons', 'Ionicons.ttf');
+const iconSet = createIconSet(glyphMap, 'Ionicons 5', 'Ionicons5.ttf');
 
 export default iconSet;
 export const {
